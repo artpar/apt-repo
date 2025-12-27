@@ -1,0 +1,16 @@
+Package: terminal-tunnel
+Version: 1.4.1
+Architecture: amd64
+Maintainer: artpar <artpar@gmail.com>
+Installed-Size: 11640
+Filename: pool/main/tt_1.4.1_amd64.deb
+Size: 4865772
+MD5sum: 0410ce45e7734735f0b68a01e68ad2d7
+SHA1: 0fe99501b814e10e612a8cf803b49e29418e28c2
+SHA256: 7b9047c8e61859b67a4e786b8d90d81dc9608edff46c84545b8384addbe830b2
+Section: utils
+Priority: optional
+Homepage: https://github.com/artpar/terminal-tunnel
+Description: P2P terminal sharing with E2E encryption
+License: MIT
+

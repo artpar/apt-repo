@@ -1,0 +1,32 @@
+Origin: terminal-tunnel
+Label: Terminal Tunnel
+Suite: stable
+Codename: stable
+Architectures: amd64 arm64
+Components: main
+Description: P2P terminal sharing with E2E encryption
+Date: Sat, 27 Dec 2025 11:28:49 +0000
+MD5Sum:
+ d274c5c45c7a6a8f78142fa4d8295df9              214 Release
+ 7c8c8429875926d29f415e97d754fb7c              488 main/binary-amd64/Packages
+ 40b8c4844c0af57c33bea4e5cfe7cfc2              370 main/binary-amd64/Packages.gz
+ b44e51b782f2d08ab22f665f12066613              488 main/binary-arm64/Packages
+ e683be97f01f8ae3f86eb1d7c706c5b0              375 main/binary-arm64/Packages.gz
+SHA1:
+ 9859ad0c679b9eea188d68553ab27bcb12797355              214 Release
+ b74d98f0c668e8cf8d8beaba05f03f073c0f4d2d              488 main/binary-amd64/Packages
+ dca777dbcd35cce6f301c0eed045beac7a0f2f60              370 main/binary-amd64/Packages.gz
+ 3fc6efeeadd4681f17aeff1703f8c8b6b119b193              488 main/binary-arm64/Packages
+ 9be50c3aa5949ee161511e52e9e1dbbbe54ed841              375 main/binary-arm64/Packages.gz
+SHA256:
+ 8a90d8cd4271a2106ff17a7330227bff00a34e73b1fbadcce9a06cf7911adfec              214 Release
+ 8230e8961a3e8564c071c020a886f7c53a8b7c49733016d0a544edaa5745ee31              488 main/binary-amd64/Packages
+ c2355f8dbd24f91284140a8a947d851876e45dce71e5662e792b2b57b8cc7bf3              370 main/binary-amd64/Packages.gz
+ 62301f99d2056b763bf9538d50776c8153bc946292e88fcee069d67f66e27e1c              488 main/binary-arm64/Packages
+ 46c32660bc63434aacefcc3346ea330e4409d6a73f4b9c19536dd3f56a5fd03c              375 main/binary-arm64/Packages.gz
+SHA512:
+ 1b54a9aafe3e91cb69f59261c326d3f7bfc7dd0c72799f694e11c11f72273923ff37b4ba19b219b555cd37995d82df59001891a75678e98ca52473364d859566              214 Release
+ ad1783a05eb0312488ba2d0dbd694eaaf8d1132e60c3f39cea9eaaf3991ff4b340d047e30934cd402d7f4182fc0be83a3ca41673fc0f90153f2faaa91613634d              488 main/binary-amd64/Packages
+ c4a10b374b7be009a7e672f3d9372d4bab411bf005bf65289ce2c4c023bd8d4946f8cccf60c815943c7f67c1e7b380ef7f4869145256b441c852cb4b7eb19d03              370 main/binary-amd64/Packages.gz
+ 4a6125666d94b3975347bdbc05498635a0cead25085fa92711f732f40a3c75173775b385e8d51345544bd1e555ec2eb1559aeadaea76e2b76c203bc59f2abd7b              488 main/binary-arm64/Packages
+ cf42d98b9a7f683e70ab744f8d3849c8114aa58b4d5094162b07dcbed4b6d8963cccdbacf033101c66e76bd0834cb4d477bf8e4e11eca9befe996c2392addfd2              375 main/binary-arm64/Packages.gz
