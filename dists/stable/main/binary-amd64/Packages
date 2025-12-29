@@ -14,3 +14,19 @@ Homepage: https://github.com/artpar/terminal-tunnel
 Description: P2P terminal sharing with E2E encryption
 License: MIT
 
+
+Package: currier
+Version: 0.1.32
+Architecture: amd64
+Maintainer: artpar <artpar@gmail.com>
+Installed-Size: 20800
+Filename: pool/main/currier_0.1.32_amd64.deb
+Size: 8536750
+MD5sum: 002cc15a6c7b502714fca068613d3754
+SHA1: 0f7e1ded5a3e062ee08650a72096a502a5dd4c40
+SHA256: e8e24314173de7e57f4b20da7e190803b4140ee38553a5fa631a65d15f84496e
+Section: utils
+Priority: optional
+Homepage: https://github.com/artpar/currier
+Description: Vim-modal TUI API client for developers and AI agents
+License: MIT
